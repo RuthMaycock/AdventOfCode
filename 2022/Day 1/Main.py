@@ -1,4 +1,3 @@
-from telnetlib import EC
 from Elf import Elf
 
 #adventofcode.com/2022/day/1
